@@ -18,8 +18,8 @@ This repo demonstrates embedding the Question API in an IFrame so anyone can tes
 
 ## Installation
 #### Clone the repo
-    git clone git@github.com:Siyavula/practice-api-iframe.git
-#### or download it as a zipped file by going to: https://github.com/Siyavula/practice-api-iframe/archive/master.zip
-#### Go to the `practice-api-iframe` directory
-#### Open `siyavula_practice_api_demo_responsive.html` in your browser for the responsive version.
-#### Open `siyavula_practice_api_demo_basic.html` in your browser for the basic(non-javascript) version.
+    git clone git@github.com:Siyavula/question-api-iframe.git
+#### or download it as a zipped file by going to: https://github.com/Siyavula/question-api-iframe/archive/master.zip
+#### Go to the `question-api-iframe` directory
+#### Open `siyavula_question_api_demo_responsive.html` in your browser for the responsive version.
+#### Open `siyavula_question_api_demo_basic.html` in your browser for the basic(non-javascript) version.
