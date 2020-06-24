@@ -8,13 +8,13 @@ Siyavula Practice is an online Maths and Physical Sciences practice service for 
 
 Learn more: https://www.siyavula.com/
 
-# Siyavula Practice API
-The Siyavula Practice API provides an easy way to integrate Siyavula Practice into any application via a RESTful API.
+# Siyavula Question API
+The Siyavula Question API provides an easy way to integrate Siyavula Practice into any application via a RESTful API.
 
 [Documentation](https://docs.google.com/document/d/1Xo3uW-p0YdPo7m9LN7_W_QgHTo9PFtwxU2MTUNVaBZo/edit?usp=sharing)
 
-## Siyavula Practice API IFrame Demo
-This repo demonstrates embedding the Practice API in an IFrame so anyone can test the Practice experience inside their own app.  No authentication is required but the demo is limited to only two question instances (one for the responsive theme and one for the basic theme).
+## Siyavula Question API IFrame Demo
+This repo demonstrates embedding the Question API in an IFrame so anyone can test the Practice experience inside their own app.  No authentication is required but the demo is limited to only two question instances (one for the responsive theme and one for the basic theme).
 
 ## Installation
 #### Clone the repo
